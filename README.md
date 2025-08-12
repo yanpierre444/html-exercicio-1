@@ -40,9 +40,9 @@ Gosto de escutar musicas, porque assi eu me foco completamente em uma coisa.
     </section>
 <main>
     <section>
-      <h2>🖼️ ,imha cara</h2>
-      <p><strong>imagens</strong> .</p>
-      <img src="imagens/exemplo.jpg" alt="Imagem exemplo" width="300">
+      <h2>🖼️minha cara</h2>
+      <p><strong>imagen</strong> .</p>
+      <img src="imagens/IMG-20250609-WA0004.jpg" alt="Imagem exemplo" width="300">
     </section>
   </main>
 
