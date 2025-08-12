@@ -40,14 +40,14 @@ Gosto de escutar musicas, porque assi eu me foco completamente em uma coisa.
     </section>
 <main>
     <section>
-      <h2>🖼️ agumas fotos</h2>
-      <p><strong>imagens</strong> e coloque suas fotos lá.</p>
+      <h2>🖼️ ,imha cara</h2>
+      <p><strong>imagens</strong> .</p>
       <img src="imagens/exemplo.jpg" alt="Imagem exemplo" width="300">
     </section>
   </main>
 
   <footer>
-    <p>SR.Y| Data: 05/08/2025</p>
+    <p>SR.Y| Data: 12/08/2025</p>
   </footer>
 
 </body>
